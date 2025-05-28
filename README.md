@@ -27,7 +27,7 @@ Endpoints principais:
 - Ruby on Rails
 - Docker e Docker Compose
 - Minitest (para testes)
-- RuboCop (para análise estática de código)
+- RuboCop (linter)
 - SimpleCov (para cobertura de testes)
 
 ---
@@ -85,6 +85,9 @@ bundle exec rails test
 ```bash
 bundle exec rubocop
 ```
+
+![image](https://github.com/user-attachments/assets/6a262e78-550e-42f7-8e20-79d61c7142fa)
+
 
 ---
 
