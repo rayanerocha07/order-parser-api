@@ -1,0 +1,33 @@
+# .rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 3.0
+  NewCops: enable
+
+Style/Documentation:
+  Enabled: false
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    - 'config/application.rb'
+
+Metrics/CyclomaticComplexity:
+  Max: 10
+  Exclude:
+    - 'bin/bundle'
+
+Metrics/MethodLength:
+  Max: 30
+  Exclude:
+    - 'bin/bundle'
+
+Metrics/PerceivedComplexity:
+  Max: 10
+  Exclude:
+    - 'bin/bundle'
+
+Layout/LineLength:
+  Max: 120
+  Exclude:
+    - 'bin/bundle'
+
