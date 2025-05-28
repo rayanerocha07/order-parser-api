@@ -16,6 +16,9 @@ Endpoints principais:
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/deb7d86f-21bd-447c-8318-b3321594181c)
+
+
 
 ---
 
